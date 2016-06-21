@@ -14,10 +14,10 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/paper-dialog-behavior"
+    "url": "git://github.com/rayie/paper-dialog-behavior"
   },
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/PolymerElements/paper-dialog-behavior",
+  "homepage": "https://github.com/rayie/paper-dialog-behavior",
   "ignore": [],
   "dependencies": {
     "iron-overlay-behavior": "PolymerElements/iron-overlay-behavior#^1.0.0",
